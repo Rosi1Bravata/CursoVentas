@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421944528427",
+    "project_id": "cursoventas-cd251",
+    "storage_bucket": "cursoventas-cd251.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421944528427:android:794de77ea7f1f0b162646e",
+        "android_client_info": {
+          "package_name": "com.example.cursoventas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWUUffv0PEKqMIP0DeuzmHMl65IBHH6I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
